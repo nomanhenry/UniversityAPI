@@ -1,4 +1,4 @@
-UniversityAPI
+
 UniversityAPI is a RESTful API developed to manage university-related entities including students, subjects, lectures, and lecture theatres. Built with clean architecture principles, it ensures a well-structured and maintainable codebase.
 
 Key Features
